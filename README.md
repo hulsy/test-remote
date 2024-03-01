@@ -1,3 +1,3 @@
-Github Course
+Github Practice.
 
 👀 Hello.
