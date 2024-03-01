@@ -1,7 +1,3 @@
 Github Course
 
-👀
-👀
-👀
-👀
-Hello.
+👀 Hello.
